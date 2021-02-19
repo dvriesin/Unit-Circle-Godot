@@ -17,7 +17,12 @@ _global_script_class_icons={
 
 config/name="testing2"
 run/main_scene="res://sayhello.tscn"
-config/icon="res://icon.png"
+config/icon="res://icon.ico"
+
+[display]
+
+window/size/width=1200
+window/size/height=700
 
 [rendering]
 
